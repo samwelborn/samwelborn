@@ -1,6 +1,6 @@
 - :wrench: I am a PhD candidate in Materials Science and Engineering at the University of Pennsylvania studying under the supervision of [Prof. Eric Detsi](https://detsi.seas.upenn.edu/). We are experimentalists who study energy storage materials. You can see my peer-reviewed publications [on my Google Scholar](https://scholar.google.com/citations?user=WsQfglgAAAAJ&hl=en&oi=ao).
 - :mag: I am also a [DOE-SCGSR](https://science.osti.gov/wdts/scgsr/) fellow at the Stanford Synchrotron Radiation Lightsource ([SSRL](https://www-ssrl.slac.stanford.edu/content/)) working with Lead Scientist [Dr. Johanna Nelson Weker](https://sites.slac.stanford.edu/wekergroup/) on [TomoPyUI](https://tomopyui.readthedocs.io/en/latest/), a graphical user interface for tomography alignment and reconstruction. 
-- :point_up: I’m currently learning python, [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/), and [bqplot](https://bqplot.readthedocs.io/en/latest/).
+- :point_up: I’m currently learning python, [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/), [bqplot](https://bqplot.readthedocs.io/en/latest/), dask, and cupy.
 
 - :point_right: Here's me teaching high schoolers about corrosion: 
 
